@@ -9,3 +9,8 @@ SELECT
 FROM
   dbo.table
 ```
+
+SELECT
+ *
+FROM
+ dbo.table
